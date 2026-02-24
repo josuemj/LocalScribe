@@ -6,19 +6,22 @@
 2. **One-click start/stop**
    - From the desktop app, press a single button to start live transcription; backend boots automatically.
 
-3. **Audio source selection**
+3. **Choose save path (v1)**
+   - On first launch, user picks the folder where transcripts are stored; path can be changed later in Settings.
+
+4. **Audio source selection**
    - User can choose microphone, system audio, or both. Example: join a Zoom meeting and transcribe system + mic.
 
-4. **Language selection**
+5. **Language selection**
    - Choose English, Spanish, or bilingual mode before starting a session.
 
-5. **Resilience on shutdown**
+6. **Resilience on shutdown**
    - If the computer powers off unexpectedly, in-progress transcript is saved up to the last received chunk.
 
-6. **App close safety**
+7. **App close safety**
    - Closing the app while recording saves the latest transcript snapshot automatically.
 
-7. **Custom save folder & formats**
+8. **Custom save folder & formats**
    - User selects a folder; all transcripts are stored there as plain `.txt` and optionally `.pdf` exports.
 
 8. **Live subtitles widget**
